@@ -33,7 +33,7 @@
     "jasmine": "latest"
   },
   "devDependencies": {
-    "@angular/cli": "~1.7.0",
+    "@angular/cli": "~14.2.9",
     "@angular/compiler-cli": "^5.2.0",
     "@angular/language-service": "^5.2.11",
     "@types/angular": "^1.6.51",
